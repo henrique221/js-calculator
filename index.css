@@ -4,6 +4,7 @@ html {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: rgb(23, 22, 21);
 }
 
 #root {
